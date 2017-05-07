@@ -1,0 +1,2 @@
+now I already clone my repository,I do sth in my dev,now I want to push 
+this file to my origin/dev.Let me try.
